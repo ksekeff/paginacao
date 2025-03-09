@@ -1,0 +1,1 @@
+#### Esse mini modulo mostra como fazemos paginação usando o Django com django-bootstrap4 usando CBV (Class Bassed Views)
